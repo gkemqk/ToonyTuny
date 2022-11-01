@@ -1,2 +1,0 @@
-# ToonyTuny
-Illustration Rhythm Game
